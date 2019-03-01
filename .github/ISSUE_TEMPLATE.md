@@ -1,4 +1,4 @@
-* Date you used Cookiecutter PyPackage:
+* Date you used the DESC python package template:
 * Cookiecutter version used, if any:
 * Python version, if any:
 * Operating System:
