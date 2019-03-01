@@ -1,13 +1,13 @@
-======================
-Cookiecutter PyPackage
-======================
+=================================
+Cookiecutter DESC python template
+=================================
 
 .. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
      :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
      :alt: Updates
 
 .. image:: https://travis-ci.org/audreyr/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage     
+    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
 
 Cookiecutter_ template for a Python package.
 
@@ -98,7 +98,7 @@ Similar Cookiecutter Templates
 
 * Also see the `network`_ and `family tree`_ for this repo. (If you find
   anything that should be listed here, please add it and send a pull request!)
-  
+
 Support this Project
 ~~~~~~~~~~~~~~~~~~~~~
 
