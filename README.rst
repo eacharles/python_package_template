@@ -1,6 +1,10 @@
-===========================================================
-Cookiecutter DESC python template !!! WORK IN PROGRESSS !!!
-===========================================================
+=================================
+Cookiecutter DESC python template 
+=================================
+
+!!! WORK IN PROGRESSS !!!
+=========================
+
 
 .. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
      :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
