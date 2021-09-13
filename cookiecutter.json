@@ -9,5 +9,5 @@
   "use_pytest": "n",
   "use_pypi_deployment_with_travis": "y",
   "command_line_interface": ["Argparse", "No command-line interface"],
-  "create_author_file": "y",
+  "create_author_file": "y"
 }
