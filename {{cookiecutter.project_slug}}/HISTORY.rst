@@ -2,7 +2,7 @@
 History
 =======
 
-{{ cookiecutter.version }} 
-------------------
+Version
+-------
 
 * First release on PyPI.
